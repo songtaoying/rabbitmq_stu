@@ -1,1 +1,13 @@
-./out/*
+.idea/
+*.iml
+*.csv
+.DS_Store
+target/
+*.swo
+*.log
+logs/
+/target
+.project
+.vagrant
+.classpath
+.settings
